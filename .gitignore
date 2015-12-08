@@ -1,0 +1,6 @@
+*.RData
+*.csv
+*.rda
+*.txt
+
+Huvud-_och_halscancer/.Rhistory
